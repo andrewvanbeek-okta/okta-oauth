@@ -1,4 +1,5 @@
 Package.describe({
+  name: 'andrewvanbeek-okta:okta-oauth',
   summary: 'Okta OAuth flow',
   version: '1.2.0'
 });
